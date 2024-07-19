@@ -1,5 +1,5 @@
-# P2PSecApp
-A peer-to-peer secure communication application for W24 CISC-468.
+# P2P Security Application
+A cryptographically-secure peer-to-peer communication application for W24 CISC 468.
 
 ## Members:
 1. Aidan Leyne
