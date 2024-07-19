@@ -1,5 +1,5 @@
 # P2PSecApp
-A P2P Secure Communication Application for W24 CISC 468.
+A peer-to-peer secure communication application for W24 CISC-468.
 
 ## Members:
 1. Aidan Leyne
@@ -8,7 +8,7 @@ A P2P Secure Communication Application for W24 CISC 468.
 
 ## Languages Chosen: 
 1. Python
-2. JavaSvcript
+2. JavaScript
 
 ## About the project:
 - Each user has a 2048-bit RSA key-pair for encyption and decryption
@@ -26,10 +26,10 @@ A P2P Secure Communication Application for W24 CISC 468.
 ## Run Instructions
 ### JavaScript
 1. Download and install node.js
-2. run ```npm install```
+2. Run command ```npm install```
 3. To run the application, navigate to the JavaScript folder and run ```node app.js```
 
 ### Python
-1. Download and Install Python
-2. run the command ```pip install requirements.txt```
+1. Download and install Python
+2. Run command ```pip install requirements.txt```
 3. To run the application, navigate to the Python folder and run ```py.exe app.py``` or ```./app.py```
